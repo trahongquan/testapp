@@ -1,4 +1,3 @@
-
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
@@ -64,7 +63,7 @@ const styles = StyleSheet.create({
     borderWidth: 2, borderColor: 'black',
     borderRadius: 10,
     padding: 10,
-    backgroundColor: 'pink',
+    backgroundColor: '#59AFC4',
     color: '#FF3300',
   }
 })
